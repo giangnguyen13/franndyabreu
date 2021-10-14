@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/franndyabreu](https://github.com/franndyabreu)
 
-- 💬 Ask me about **JavaScript or Python.**
+- 💬 Ask me about **JavaScript/TS or Python.**
 
 - 📫 How to reach me **franndyabreu@gmail.com**
 
