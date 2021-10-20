@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=franndyabreu" alt="franndyabreu" /></a> </p>
 
-- 🔭 I’m currently working on a start-up named [Mybee App.](https://mybee.app), ranked [Top #5 Product of the Day on Product Hunt.](https://www.producthunt.com/posts/mybee-app?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-mybee-app)
+- 🔭 I’m currently working on a start-up called [Mybee App.](https://mybee.app), ranked [Top #5 Product of the Day on Product Hunt.](https://www.producthunt.com/posts/mybee-app?utm_source=badge-top-post-badge&utm_medium=badge&utm_souce=badge-mybee-app)
 
-- 🌱 I’m currently learning **NestJS, Kubernetes, GCP/GKE, Flutter.**
+- 🌱 I’m currently learning **Kubernetes, GCP/GKE, Flutter.**
 
 - 👯 I’m looking to collaborate on **any cool project you may have.**
 
